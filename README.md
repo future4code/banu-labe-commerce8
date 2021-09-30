@@ -26,10 +26,10 @@ Por nome do produto;
 ## Tecnologias utilizadas
 O projeto foi desenvolvido usando as seguintes tecnologias:
 
-React.js
-Styled-Components
+[![React.js] (https://pt-br.reactjs.org/docs/getting-started.html)
+[![Styled-Components] (https://styled-components.com/docs)
 
 ## Link de  acesso ao projeto
-Link:
+[![Link:]
 
 ## Desenvolvido por Ayla, Priscila e Bruno.
