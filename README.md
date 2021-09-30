@@ -29,9 +29,9 @@ O projeto foi desenvolvido usando as seguintes tecnologias:
 [React.js](https://pt-br.reactjs.org/docs/getting-started.html)
 [Styled-Components](https://styled-components.com/docs)
 
-## Link de  acesso ao projeto :earth_americas:
+## 🌎 Link de  acesso ao projeto
 [Link:]
 
-## Fotos do Projeto
+## :boom: Fotos do Projeto :boom:
 
 ## Desenvolvido por Ayla, Priscila e Bruno.
