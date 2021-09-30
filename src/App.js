@@ -142,7 +142,7 @@ const TextoRodape = styled.h4`
 const produtos = [
   {
     id: 1,
-    name: "Star",
+    name: "AtroLimpa",
     value: 100.0,
     imageUrl: Camiseta1,
 
@@ -150,7 +150,7 @@ const produtos = [
 
   {
     id: 2,
-    name: "Voa comigo",
+    name: "Role de Skate",
     value: 69.0,
     imageUrl: Camiseta2,
 
@@ -249,12 +249,10 @@ class App extends React.Component {
 
   adicionarProduto = (id) => {
     let novoCarrinho = this.state.carrinho;
-    // produtoExiste recebe o index de cada produto do carrinho
     const produtoExiste = novoCarrinho.findIndex(
       (produto) => produto.id === id
     );
 
-    // metodo findIndex retorna -1 caso não encontre produto no array novoCarrinho
     if (produtoExiste === -1) {
       const produto = this.state.produtos.find((item) => item.id === id);
 
