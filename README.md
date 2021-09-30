@@ -23,13 +23,15 @@ Filtro
 Por valor mínimo e máximo;
 Por nome do produto;
 
-## Tecnologias utilizadas
+## 🚀 Tecnologias utilizadas
 O projeto foi desenvolvido usando as seguintes tecnologias:
 
 [React.js](https://pt-br.reactjs.org/docs/getting-started.html)
 [Styled-Components](https://styled-components.com/docs)
 
-## Link de  acesso ao projeto
+## Link de  acesso ao projeto :santa:
 [Link:]
+
+## Fotos do Projeto
 
 ## Desenvolvido por Ayla, Priscila e Bruno.
