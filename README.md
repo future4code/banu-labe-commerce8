@@ -30,6 +30,6 @@ O projeto foi desenvolvido usando as seguintes tecnologias:
 [Styled-Components](https://styled-components.com/docs)
 
 ## Link de  acesso ao projeto
-[![Link:]
+[Link:]
 
 ## Desenvolvido por Ayla, Priscila e Bruno.
