@@ -150,7 +150,7 @@ const produtos = [
 
   {
     id: 2,
-    name: "Role de Skate",
+    name: "Role De Skate",
     value: 69.0,
     imageUrl: Camiseta2,
 
