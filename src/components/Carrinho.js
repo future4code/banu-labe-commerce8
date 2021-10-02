@@ -33,4 +33,5 @@ class Carrinho extends React.Component {
   }
 }
 
+
 export default Carrinho;
