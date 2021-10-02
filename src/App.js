@@ -14,6 +14,7 @@ import Camiseta6 from "./img/camiseta-13.jpg";
 import Camiseta7 from "./img/camiseta-12.jpg";
 import Camiseta8 from "./img/camiseta-10.jpg";
 
+
 import imgCabecalho from "./img/logo1.png"
 
 const Container = styled.div`
