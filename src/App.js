@@ -17,8 +17,6 @@ import Camiseta8 from "./img/camiseta-10.jpg";
 
 import imgCabecalho from "./img/logo1.png"
 
-
-
 const Container = styled.div`
   
   background-position: 50% 0;
@@ -78,6 +76,8 @@ const Cabecalho = styled.header`
   display: flex;
   flex-direction: column;
   margin-left: 6.50vw;
+  /* width: 30vw;
+  height: 18vw; */
 `;
 
 const ImagemCabecalho = styled.img`
@@ -142,15 +142,18 @@ const TextoRodape = styled.h4`
 const produtos = [
   {
     id: 1,
+ projeto
     name: "AtroLimpa",
     value: 100.0,
+
     imageUrl: Camiseta1,
 
   },
 
   {
-    id: 2,
+   projeto
     name: "Role De Skate",
+=======
     value: 69.0,
     imageUrl: Camiseta2,
 
@@ -158,44 +161,44 @@ const produtos = [
 
   {
     id: 3,
-    name: "Mix Espacial",
-    value: 180.0,
+    name: "BLUBLU",
+    value: 69.0,
     imageUrl: Camiseta3,
 
   },
 
   {
     id: 4,
-    name: "Astro Musica",
-    value: 120.0,
+    name: "BLUBLU",
+    value: 69.0,
     imageUrl: Camiseta4,
   },
 
   {
     id: 5,
-    name: "Basquete de Saturno",
-    value: 59.0,
+    name: "BLUBLU",
+    value: 69.0,
     imageUrl: Camiseta5,
   },
 
   {
     id: 6,
-    name: "Festa no Espaço",
-    value: 143.0,
+    name: "BLUBLU",
+    value: 69.0,
     imageUrl: Camiseta6,
   },
 
   {
     id: 7,
-    name: "Aeroespacial",
-    value: 102.0,
+    name: "BLUBLU",
+    value: 69.0,
     imageUrl: Camiseta7,
   },
 
   {
     id: 8,
-    name: "Pug Astronauta",
-    value: 39.0,
+    name: "BLUBLU",
+    value: 69.0,
     imageUrl: Camiseta8,
   },
 ];

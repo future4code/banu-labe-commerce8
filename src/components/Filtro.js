@@ -18,8 +18,6 @@ const Input = styled.input`
   width: 75%;
 `;
 
-
-
 function Filtro(props) {
         
     return (
@@ -47,3 +45,4 @@ function Filtro(props) {
 }
 
 export default Filtro;
+

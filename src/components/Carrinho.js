@@ -8,10 +8,7 @@ const Container = styled.div`
 `
 
 const ListaProdutos = styled.p`
-   
-    background-image: white;
-  
-  
+  background-image: white;
 `
 
 const BotaoExcluir = styled.button`
@@ -20,30 +17,21 @@ const BotaoExcluir = styled.button`
     display: inline-block;
     align-content: flex-end;
     align-items:center;
-    flex-shrink: 1;
-    
+    flex-shrink: 1;    
 `
-
-
-
 class Carrinho extends React.Component {
-    render () {
-        return (
-            
-            <Container>
-                <ListaProdutos>
-                    {this.props.quantidade} {this.props.nomeProduto}: {this.props.valorProduto * this.props.quantidade}
-                    
-                    <BotaoExcluir onClick={this.props.excluir}>EXCLUIR
-                        </BotaoExcluir>            
-
-                        
-                               
-                                           
-                   
-                </ListaProdutos>
-            </Container>
-        )
-    }
+  render () {
+    return (
+      <Container>
+        <ListaProdutos>
+          {this.props.quantidade} {this.props.nomeProduto}: {this.props.valorProduto * this.props.quantidade}       
+            <BotaoExcluir onClick={this.props.excluir}>EXCLUIR
+            </BotaoExcluir>                                  
+        </ListaProdutos>
+      </Container>
+    )
+  }
 }
+
+
 export default Carrinho;

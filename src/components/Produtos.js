@@ -5,7 +5,6 @@ const Texto = styled.p`
 font-size: 20px;
 `
 
-
 class Produtos extends React.Component {
 
   render() {
@@ -19,3 +18,4 @@ class Produtos extends React.Component {
   }
 }
 export default Produtos;
+
