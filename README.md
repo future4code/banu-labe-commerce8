@@ -29,9 +29,11 @@ O projeto foi desenvolvido usando as seguintes tecnologias:
 [Styled-Components](https://styled-components.com/docs)
 
 ## 🌎 Link de  acesso ao projeto
-http://amuck-light.surge.sh/
+[Link](https://late-island.surge.sh/)
 
 ## :boom: Fotos do Projeto :boom:
+![image](https://user-images.githubusercontent.com/86798260/135775588-9433d72e-2d92-4f1d-b191-9b27a7217914.png)
+![image](https://user-images.githubusercontent.com/86798260/135775591-4905543f-d225-412e-b81b-dfa749e6032e.png)
 
 
 ## Desenvolvido por Ayla, Priscila e Bruno
